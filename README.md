@@ -1,6 +1,6 @@
 # authentication-server  
 A secure authentication server boilerplate using passport.js and bcrypt
 
-Run npm install
+- Run npm install
 
-Add a config.js file which contains a secret key
+- Add a config.js file which contains a secret key
